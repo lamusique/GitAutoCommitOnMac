@@ -1,7 +1,4 @@
 
-AAAA
-BBBB
-CCCC
 
 This is a test.
 The second line.
