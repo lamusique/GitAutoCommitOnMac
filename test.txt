@@ -7,5 +7,5 @@ Testing auto commit.
 A
 
 B
-
+C
 
