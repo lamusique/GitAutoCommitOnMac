@@ -3,3 +3,5 @@ The second line.
 The third line.
 
 This is a test.
+Testing auto commit.
+
