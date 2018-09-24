@@ -6,5 +6,6 @@ Testing auto commit.
 
 A
 
+B
 
 
