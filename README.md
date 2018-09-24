@@ -20,5 +20,5 @@ $ fswatch -0 . -e "\\.git.*" | xargs -0 -n 1 -I{} sh -c 'git add .; git commit -
 
 1. Don't use `git commit -am` because -a doesn't treat a new file.
 1. Better to put .gitignore first to prevent exhaustive detection.
-
+1. Better to create a branch for this auto committing because the commit history gets messy about.
 
